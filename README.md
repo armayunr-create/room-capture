@@ -52,3 +52,5 @@ Suggestions, bug reports, and feature ideas are welcome! Open an issue in this r
 📄 License
 
 A license has not yet been specified. Until one is added, the source code is not automatically licensed for unrestricted reuse.
+
+a windows version is in progress
